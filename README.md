@@ -1,6 +1,6 @@
 # Todos - React Native (Ignite)
 
-Projeto To do, trilha React Native (Ignite)
+App To do, React Native (Ignite) path
 
 ## How to start?
 
