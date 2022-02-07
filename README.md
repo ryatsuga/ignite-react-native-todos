@@ -6,4 +6,4 @@ App To do, React Native (Ignite) path
 
 1. Clone this repository
 2. Run 'yarn' in this project dir to install the dependencies
-3. Run 'yarn android' to emulate the app in an android device/emulator
+3. Run 'yarn android' to start the app in an android device/emulator
